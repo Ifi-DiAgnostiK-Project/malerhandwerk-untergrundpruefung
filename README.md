@@ -217,6 +217,6 @@ Sie kennen jetzt die vollständige Systematik der Untergrundprüfung. Das ist ke
 
 <center>
 
-![Jubel](assets/images/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")<!-- style="max-width: 400px; width: 100%" -->
+![Bunte Silhouetten mehrerer springender Menschen vor weißem Hintergrund als Symbol für Freude, Spaß und Lebensfreude.](assets/images/colorfull_jumping.jpg "Farbige Silhouetten springender Menschen als Ausdruck von Freude und Spaß. Bild von [geralt via Pixabay](https://pixabay.com/de/illustrations/freude-springen-luftsprung-spa%C3%9F-3940425/), Pixabay Content License, veröffentlicht am 19. Januar 2019.")<!-- style="max-width: 400px; width: 100%" -->
 
 </center>
